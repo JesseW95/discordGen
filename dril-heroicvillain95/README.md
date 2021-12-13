@@ -1,12 +1,3 @@
----
-language: en
-thumbnail: http://www.huggingtweets.com/dril-heroicvillain95/1639182717266/predictions.png
-tags:
-- huggingtweets
-widget:
-- text: "My dream is"
----
-
 <div class="inline-flex flex-col" style="line-height: 1.5;">
     <div class="flex">
         <div
