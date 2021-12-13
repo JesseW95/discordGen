@@ -1,0 +1,7 @@
+# rename this file to configs.yml
+t_api_key: "twitter_api_key"
+t_api_secret: "twitter_api_secret"
+t_access_token: "twitter_access_token"
+t_access_secret: "twitter_access_secret"
+t_bearer_token: "twitter_bearer_token"
+d_token: "discord_token"
